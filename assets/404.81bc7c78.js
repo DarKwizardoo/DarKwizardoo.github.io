@@ -1,0 +1,1 @@
+import{_ as e,f as r,E as o,d as s,o as t,c as a}from"./index.8b11de85.js";const n={name:"404",setup(){r(()=>{o.error("\u53D1\u751F\u9519\u8BEF\uFF01\u6B63\u5728\u8FD4\u56DE\u767B\u5F55\u754C\u9762"),setTimeout(()=>{s.push({path:"/Login"})},2e3)})}};function c(p,u,_,d,f,i){return t(),a("div",null,"error")}var m=e(n,[["render",c]]);export{m as default};
